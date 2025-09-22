@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:machines_test_app/about_screen.dart';
-import 'package:machines_test_app/efficiency_screen.dart';
 import 'package:machines_test_app/graphs_screen.dart';
 import 'package:machines_test_app/models/chartData.dart';
 import 'package:machines_test_app/models/machine.dart';
